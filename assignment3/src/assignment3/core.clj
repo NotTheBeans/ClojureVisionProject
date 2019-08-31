@@ -1,5 +1,4 @@
 ;Name:Joseph Hall
-;ID: 1257560
 (ns assignment3.core
   (:gen-class)
   (:import [java.awt.image  BufferedImage])
